@@ -1,7 +1,7 @@
 # 📊 SQL Server Data Warehouse | Medallion Architecture
 
 <p align="center">
-  <img src="docs/Data Architecture.drawio.png" alt="Data Warehouse Architecture" width="100%">
+  <img src="docs/Data Architecture.png" alt="Data Warehouse Architecture" width="100%">
 </p>
 
 ## 🚀 Project Overview
@@ -105,6 +105,14 @@ BI / Reporting / ML
 * Slowly Changing Dimensions (SCD Type 2)
 * Index & partition optimization
 * Orchestration using SQL Server Integration Services or Azure Data Factory
+
+---
+
+## 🔗 Project Management
+
+Task tracking and detailed planning were managed in Notion:
+
+📌 [View Full Project Plan in Notion](https://www.notion.so/SQL-Data-Warehouse-Project-2fed3177220880ddb707d9ef55ebcd80)
 
 ---
 
